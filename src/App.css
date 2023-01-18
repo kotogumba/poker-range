@@ -1,0 +1,16 @@
+.App {
+  width: 600px;
+  height: 600px;
+  background-color: bisque;
+
+}
+
+.range {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(13, 1fr);
+  grid-template-rows: repeat(13, 1fr);
+}
+
+
