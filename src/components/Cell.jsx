@@ -8,6 +8,9 @@ function Cell() {
     "background-size": '44% 100%, 100% 100%',
     "border": '1px solid #000',
     "color": 'black',
+    
+
+
   }
   return (
     <div className='cell' style= {style}>
